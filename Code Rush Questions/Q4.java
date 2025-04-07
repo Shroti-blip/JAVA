@@ -17,8 +17,8 @@ public class Q4 {
         int row;
         java.util.Scanner sc=new java.util.Scanner(System.in);
         System.out.print("Enter term : ");
-        row=sc.nextInt();
-        for(int i=1;i<=4;i++){
+        rows=sc.nextInt();
+        for(int i=1;i<=rows;i++){
             for(int j=1;j<=i;j++){
                 System.out.print(j);
             }
