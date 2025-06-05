@@ -51,6 +51,6 @@ To improve my Java fundamentals, problem-solving skills, and build a strong foun
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shroti-blip/JAVA.git
-   cd JAVA
+
 
 
