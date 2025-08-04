@@ -16,6 +16,7 @@ public class ArrayList1 {
          li.add("four");
          li.add("five");
          li.add("six");
+              li.add("seven");
          System.out.println(li);
 //         li.remove(li);
          li.remove(2);
@@ -37,3 +38,4 @@ public class ArrayList1 {
     }
     
 }
+
